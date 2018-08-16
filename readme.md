@@ -1,7 +1,4 @@
 #Overview
-This exercise is designed to evaluate your performance on a project that is similar (though scaled back) to what you might encounter on our team.
-There is no time limit, so please do not feel rushed – do something you’re proud of! Also, questions are welcome, so feel free to ask.
-
 
 ##Requirements
 Design and implement an N-way, Set-Associative cache, with the following features:
