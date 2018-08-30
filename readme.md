@@ -10,10 +10,3 @@ Design and implement an N-way, Set-Associative cache, with the following feature
 
 ## Example use case:
 As an in-memory cache on an application server, storing data associated with user id, in order to avoid a database dip for every request.
-
-
-## Design Requirements
-Provide a PDF describing your design. The goal is to communicate the most important aspects of your solution to other developers; in particular, the key things you think we should know to aid us in our evaluation of your solution.
-
-## Implementation Requirements
-Implement in C# (preferred),&nbsp;Java,&nbsp;or Python, and write your code with the quality bar you would use for production code.
